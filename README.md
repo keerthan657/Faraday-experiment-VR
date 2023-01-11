@@ -21,3 +21,13 @@ While in game view, can enable different view modes.
 
 ## Build
 Build file (exe file) is already included in the Builds folder.
+
+## Mentions
+A couple of assets were used for the implementation of this project.
+All assets were used for educational purposes.
+
+1. Skybox environment - 360 panorama of a room
+https://pixexid.com/image/cm1btua-360-image-of-a-room [Accessed 07-01-2023]
+
+2. Table 3D model
+https://free3d.com/3d-model/table-747735.html [Accessed 07-01-2023]
