@@ -22,7 +22,12 @@ While in game view, can enable different view modes.
 ## Build
 Build file (exe file) is already included in the Builds folder.
 
-## Mentions
+## Credits
+
+Thanks to the author of this youtube video (Emma Prats) for giving such an easy solution for camera rotation.
+
+https://youtu.be/rDJOilo4Xrg
+
 A couple of assets were used for the implementation of this project.
 All assets were used for educational purposes.
 
